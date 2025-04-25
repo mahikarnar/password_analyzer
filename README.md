@@ -10,6 +10,8 @@
 - Real-time Analysis: Checks length, uppercase, digits, and special chars  
 - Interactive UI: Gradio web interface  
 
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FFD21F?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/mahikr/password_analyser)
+
 ## 🚀 Try It Live  
 https://huggingface.co/spaces/mahikr/password_analyser
 
