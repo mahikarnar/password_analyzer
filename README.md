@@ -31,4 +31,7 @@ python app.py
 - Learning Journey: Document challenges you overcame  
 
 ---
- 
+Done By (Team JMK):
+- Mahi Karna R
+- Jhanavi Ravishankar
+- Khushi S
