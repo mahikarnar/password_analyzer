@@ -1,6 +1,9 @@
 # password_analyser
 # 🔐 AI Password Strength Checker  
-*Built with Python, Gradio, and Scikit-learn*  
+*Built with Python, Gradio, and Scikit-learn* 
+
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/a112eef9-79bf-46a6-bcdf-9d4fac2b7446" />
+
 
 ## ✨ Features  
 - Machine Learning Model: Random Forest classifier trained on password features  
