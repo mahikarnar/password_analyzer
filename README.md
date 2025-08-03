@@ -1,4 +1,4 @@
-# password_analyser
+# Password Analyser
 # 🔐 AI Password Strength Checker  
 *Built with Python, Gradio, and Scikit-learn* 
 
