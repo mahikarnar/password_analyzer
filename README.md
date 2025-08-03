@@ -35,8 +35,3 @@ python app.py
 - Extensible: Easy to add more features like breach checking  
 - Learning Journey: Document challenges you overcame  
 
----
-Done By (Team JMK):
-- Mahi Karna R
-- Jhanavi Ravishankar
-- Khushi S
