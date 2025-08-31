@@ -15,7 +15,7 @@
 ##  Try It Live  
 https://huggingface.co/spaces/mahikr/password_analyser
 
-## 🛠Local Setup  
+## Local Setup  
 ```bash
 git clone https://github.com/mahikr/password_analyser
 cd password-strength-checker
