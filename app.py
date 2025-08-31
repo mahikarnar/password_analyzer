@@ -13,7 +13,6 @@ def analyze_password(password):
         "Has Numbers": "Yes" if any(c.isdigit() for c in password) else "No"
     }
 
-# Gradio 5.26.0 compatible syntax
 iface = gr.Interface(
     fn=analyze_password,
     inputs="text",
@@ -21,5 +20,6 @@ iface = gr.Interface(
     title="Password Checker",
     examples=[["password"], ["Password1"], ["P@ssw0rd"]]
 )
+
 
 iface.launch(server_port=7860)
